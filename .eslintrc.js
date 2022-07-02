@@ -1,12 +1,10 @@
 module.exports = {
   root: true,
   extends: [
-    'eslint:recommended',
-    'plugin:eslint-plugin/recommended',
-    'plugin:node/recommended',
     'airbnb-base',
   ],
   env: {
+    commonjs: true,
     es6: true,
     node: true,
   },
