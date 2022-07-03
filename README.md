@@ -34,7 +34,7 @@ Add `"nuxt3-auto-import"` to the plugins section and add to `"nuxt3-auto-import/
     "plugins": [
         ...,
         "nuxt3-auto-import"
-    ]
+    ],
     "env": {
         ...,
         "nuxt3-auto-import/nuxt": true
